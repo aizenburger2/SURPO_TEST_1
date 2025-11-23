@@ -1,2 +1,3 @@
 Changes in feature-1 branch
 Changes in main branch
+Changes in feature-2 branch
